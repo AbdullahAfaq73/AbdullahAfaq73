@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 👨‍💻 All of my projects are available at [https://abdullah-afaq.firebaseapp.com/](https://abdullah-afaq.firebaseapp.com/)
+- 👨‍💻 You can visit my portfolio [https://abdullah-afaq.vercel.app/](https://abdullah-afaq.vercel.app/)
 
 - 💬 Ask me about **React, Next 13.**
 
